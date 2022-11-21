@@ -30,7 +30,7 @@
     "@storybook/addon-links": "6.5.10",
     "@storybook/addons": "6.5.10",
     "@storybook/api": "6.5.10",
-    "@storybook/builder-webpack5": "6.5.10",
+    "@storybook/builder-webpack5": "6.5.13",
     "@storybook/components": "6.5.10",
     "@storybook/core-events": "6.5.10",
     "@storybook/manager-webpack5": "6.5.10",
