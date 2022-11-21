@@ -33,7 +33,7 @@
     "@storybook/builder-webpack5": "6.5.10",
     "@storybook/components": "6.5.10",
     "@storybook/core-events": "6.5.10",
-    "@storybook/manager-webpack5": "6.5.10",
+    "@storybook/manager-webpack5": "6.5.13",
     "@storybook/preset-scss": "1.0.3",
     "@storybook/react": "6.5.10",
     "@storybook/testing-library": "0.0.13",
