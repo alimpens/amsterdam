@@ -27,7 +27,7 @@
     "@storybook/addon-essentials": "6.5.14",
     "@storybook/addon-interactions": "6.5.14",
     "@storybook/addon-links": "6.5.14",
-    "@storybook/addons": "6.5.14",
+    "@storybook/addons": "6.5.15",
     "@storybook/api": "6.5.14",
     "@storybook/builder-webpack5": "6.5.14",
     "@storybook/components": "6.5.14",
