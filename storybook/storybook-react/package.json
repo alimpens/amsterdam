@@ -42,7 +42,7 @@
     "@amsterdam/design-tokens": "workspace:*",
     "@amsterdam/font": "workspace:*",
     "@amsterdam/icons-react": "workspace:*",
-    "@utrecht/components": "1.0.0-alpha.351",
+    "@utrecht/components": "1.0.0-alpha.376",
     "babel-loader": "9.1.0",
     "css-loader": "6.7.3",
     "date-fns": "2.29.3",
